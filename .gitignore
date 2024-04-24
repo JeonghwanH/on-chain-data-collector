@@ -1,0 +1,12 @@
+# Mac dir
+.DS_Store
+*/.DS_Store
+
+# logs
+logs
+logs/*.*
+logs/*.log
+
+# result
+result
+result/*

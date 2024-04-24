@@ -1,0 +1,12 @@
+{
+    "project": "Degen",
+    "abi_file": "abi/erc20_abi.json",
+    "from_block": 11900000,
+    "to_block": 12000000,
+    "node_url": "https://mainnet.base.org",
+    "contract_address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+    "bool_tx_receipt": false,
+    "bool_tx": false,
+    "output_csv_filename": "result/degen/transfer.csv",
+    "event_type": "Transfer"
+}
